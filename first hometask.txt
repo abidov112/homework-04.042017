@@ -18,3 +18,4 @@ platformanin yeni yaranan vaxtlarinda istifadeci qadinlar 1 faiz teskil edirdi a
 36 faizini qadinlar tewkil edir.
 command line
 
+command line haqqinda axtaris etdim amma tam o anlayisi qavriya bilmedim.
