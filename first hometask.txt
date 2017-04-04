@@ -1,0 +1,20 @@
+Github niye istifade etmeliyik.
+1.github bize projektlerde insanlarla birge islemek seraiti yaradir ve buda onun istifade edilmesinin baslica sebeblerinnen biridir
+2.en boyuk yazilimci cemiyyetidir
+3.basqa insanlarin sizin proyektlere adanliqla tohveleri ola bilmesidir
+4.fayllarda deywiklik olan zaman hemin fayllari ve simvollari gosterir
+5.kompyuterinizde silinmis fayllari ve ya kodlari oradan yeniden yuklemek olar.
+Github
+Github herkesin daha yaxsi proqram teminati yazmasi ucun olan bir saytdir.Davamli olaraq buradan oz islerimiz izleye 
+bileriy ve olunan deyisikler mueyyen vaxt erzinde ne qeder irelilemisiy hamisini buradan teqib ede bileriy.esas ozelliyide
+projeler qrup weklindede isleye bilersiniz,yazacaginiz kodlari istediyin kesler gore biler.Istediyiniz qeder projeler yaza 
+bilersiniz.Cox suretlidir,kodlarin terminal uzerinden yuklenmesi vaxtimiza cox teserruf edecek.
+Qrup halinda islenilen projeler her kes terefinden baxila bilir,burada olan deyisikler,hamisi tarixleri ile birlikde 
+arxivde qalir.Gelecekde hard diskde ve ya  komputerinizde probler olarsa projenizi tezeden komputere clone-lamaq olar.
+Proje zamani siz burada komek ucun elave insanlar telimatlandira bilersiniz ve onlarin isini nezaretde saxliya,yazdigi 
+kodlari yoxluya bilersiniz,buda sizin isinizi dahada asandlasdirir.Kimlerin ne qeder kod yazdigini ne qeder vaxtini 
+isdediyinide,tum informasiyalari rahatliqla ala bileceyiniz bir platfomadir.Statistikada bir weyde goze carpandir ki, 
+platformanin yeni yaranan vaxtlarinda istifadeci qadinlar 1 faiz teskil edirdi amma hal hazirdaki neticeye gore 21 milion
+36 faizini qadinlar tewkil edir.
+command line
+
